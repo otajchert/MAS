@@ -1,1 +1,0 @@
-Modelowanie i Analiza Systemów
